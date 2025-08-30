@@ -34,7 +34,7 @@ export default defineConfig({
       },
       workbox: {
         // Precache the app shell (HTML, CSS, JS, etc.)
-        globPatterns: ["**/*.{js,css,html,ico,png,svg}"],
+        globPatterns: ["**/*.{js,css,html,ico,png,svg,json}"],
 
         // Runtime caching for book images
         runtimeCaching: [
