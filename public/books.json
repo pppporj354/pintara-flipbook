@@ -1,0 +1,24 @@
+[
+  {
+    "id": "buku-1",
+    "title": "Petualangan Kiko",
+    "thumbnail": "/pages/buku-1_p1.png",
+    "pages": [
+      { "page": 1, "image": "/pages/buku-1_p1.png" },
+      { "page": 2, "image": "/pages/buku-1_p2.png" },
+      { "page": 3, "image": "/pages/buku-1_p3.png" },
+      { "page": 4, "image": "/pages/buku-1_p4.png" }
+    ]
+  },
+  {
+    "id": "buku-2",
+    "title": "Misteri Hutan Ajaib",
+    "thumbnail": "/pages/buku-2_p1.png",
+    "pages": [
+      { "page": 1, "image": "/pages/buku-2_p1.png" },
+      { "page": 2, "image": "/pages/buku-2_p2.png" },
+      { "page": 3, "image": "/pages/buku-2_p3.png" },
+      { "page": 4, "image": "/pages/buku-2_p4.png" }
+    ]
+  }
+]
